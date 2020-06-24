@@ -1,0 +1,18 @@
+header{
+    border-bottom: solid 1px #333;
+}
+
+header div{
+    display: flex;
+    justify-content: center;
+}
+
+.reset-button{
+    padding: 20px 30px;
+    border-radius: 5px;
+    border: 2px solid #333;
+}
+
+.reset-button:hover{
+    opacity: .6;
+}

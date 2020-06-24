@@ -1,0 +1,21 @@
+.add-todo{
+    border-bottom: solid 1px #333;
+    text-align: center;
+}
+
+.todo{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.add-button{
+    padding: 10px 30px;
+    display: inline-block;
+    border: 2px solid #333;
+    border-radius: 5px;
+    margin-left: 30px;;
+}
+
+.add-button:hover{
+    opacity: .6;
+}
